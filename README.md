@@ -1,4 +1,4 @@
-![Header Image](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80)
+![Header Image](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80)
 
 # Hi 👋, I'm Abdul Wahab Ahmad  
 **Aspiring Software Engineer | Problem Solver | DSA & Java Enthusiast**
