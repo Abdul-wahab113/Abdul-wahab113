@@ -1,59 +1,54 @@
-# 👋 Hi, I'm Abdul Wahab Ahmad  
+![Header Image](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80)
 
-🎓 *BS Computer Science Student* | 💻 *Mastering DSA in C++ & Java*  
-🚀 *Aspiring Software Engineer @ Google* | 💡 *Consistently Learning, Building & Sharing*  
-
----
-
-### 🌱 About Me  
-I’m a passionate Computer Science student from Pakistan, on a journey to strengthen my foundations in *Data Structures, Algorithms, and Core Computer Science concepts*.  
-I believe in the power of consistency and curiosity — small daily efforts can lead to massive long-term success.  
-
-I’m currently running a *#30DaysOfDSAinCPP Challenge, where I learn, implement, and share my progress every single day on **GitHub* and *LinkedIn*.  
+# Hi 👋, I'm Abdul Wahab Ahmad  
+**Aspiring Software Engineer | Problem Solver | DSA & Java Enthusiast**
 
 ---
 
-### 🎯 My Goals  
-- 💻 Solve 200+ DSA problems on LeetCode  
-- 🧠 Master C++ and Java problem-solving  
-- 🧩 Build scalable projects using OOP, JDBC, and MySQL  
-- 🌐 Learn about System Design, Virtualization & Cloud Computing  
-- ✨ Land a Software Engineering role at *Google / Microsoft*
+### 🚀 About Me  
+- 🎓 BS Computer Science student passionate about **algorithms, backend systems, and problem-solving**  
+- 💡 Currently improving my skills in **Data Structures, Algorithms, and Java Development**  
+- 💻 Learning about **Virtualization, Containerization, and System Design**  
+- 🏆 Preparing for technical interviews to achieve my dream job at **Google or Microsoft**  
+- ☕ Love writing clean, efficient code and learning new technologies  
 
 ---
 
-### 🧩 What I’m Working On  
-- 🔥 *30 Days of DSA in C++* (Daily learning + problem solving)  
-- 🛠 Java-based *Vehicle Rental System* using JDBC & MySQL  
-- 🧱 Learning *Virtualization & Containerization* concepts  
+### 🧠 Currently Learning  
+- Data Structures & Algorithms (C++ / Java)  
+- Operating Systems, DBMS, and Computer Networks  
+- Problem Solving on [LeetCode](https://leetcode.com/)  
 
 ---
 
-### 🧠 Tech Stack  
-💻 *Languages:* C++, Java, SQL  
-🧩 *Core:* Data Structures & Algorithms, OOP, DBMS  
-🛠 *Tools:* Git, GitHub, MySQL, VS Code, IntelliJ IDEA  
-⚙ *Exploring:* Docker, Linux, System Design  
+### 🛠️ Tech Stack  
+**Programming Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web & Tools:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-wahab113&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-wahab113&layout=compact&theme=radical)  
-
----
-
-### 🏆 Current Challenges  
-📚 #30DaysOfDSAinCPP → Strengthening logic & problem-solving daily  
-💡 #100DaysOfCode (planned) → Expanding Java & Project Development Skills  
+![Abdul Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-wahab113&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-wahab113&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/abdul-wahab-ahmad-821744271/))  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)]([https://leetcode.com/YOUR-LEETCODE](https://leetcode.com/u/mVUO2ANGI5/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/Abdul-wahab113))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdul-wahab-ahmad-821744271)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahabahmad800@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Abdul-wahab113)
 
 ---
 
-⭐ "Drops make an ocean — and daily learning makes a great engineer."
+⭐️ *“Code. Learn. Build. Repeat.”*
