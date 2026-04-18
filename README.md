@@ -72,22 +72,17 @@ I use it every day.
 
 ---
 
-### 🔐 Secure MERN Blogging Platform
-> *Built for an Information Security course — then actually tested*
-
-Full-stack blogging app built with the MERN stack. After building it, I ran it through real attack scenarios covered in the course and hardened it based on what broke. Learned more about security by breaking my own app than from any lecture.
-
-`MongoDB` `Express.js` `React` `Node.js` `JWT` `Security Testing`
-
----
-
-### 🚗 Vehicle Rental System
-> *First real desktop app with a database*
-
-Complete vehicle rental management system — Java desktop UI with MySQL database via XAMPP. My first experience connecting a frontend to a real database and handling full CRUD operations in a structured way.
-
-`Java` `OOP` `MySQL` `Desktop UI` `XAMPP`
-
+### 🔗 URL Shortener — Production-Ready Backend Service
+> *First project after learning Node & Express — built it properly*
+ 
+A full backend service for shortening URLs — not a toy project. Users can register, log in, create short codes (custom or auto-generated via nanoid), manage their URLs, and get redirected via HTTP 301. Passwords are hashed with a custom salt implementation. All input is validated with Zod schemas. Ships with Docker Compose for easy deployment.
+ 
+The stack here was a deliberate choice: PostgreSQL over MongoDB for relational integrity, Drizzle ORM for type-safe queries, and pnpm for a leaner dependency tree. This is the project where backend development clicked for me as a discipline — not just writing routes, but thinking about auth flow, schema design, validation boundaries, and deployment.
+ 
+[**View Repository →**](https://github.com/Abdul-wahab113/URLSHORTNER-Node-Express)
+ 
+`Node.js` `Express.js` `PostgreSQL` `Drizzle ORM` `JWT` `Zod` `Docker` `nanoid` `pnpm`
+ 
 ---
 
 ## GitHub Stats
