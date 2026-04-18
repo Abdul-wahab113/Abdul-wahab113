@@ -57,6 +57,8 @@ My instructor assigned a supply chain optimizer as a desktop app. The catch: no 
 
 This was the first time I truly understood what client-server architecture means in practice — not from a textbook, but from building it.
 
+[**View Repository →**](https://github.com/Abdul-wahab113/SupplyChainRouteOptimizer)
+
 `C++` `Java` `Socket Programming` `Client-Server Architecture` `JSON` `DSA`
 
 ---
@@ -67,6 +69,9 @@ This was the first time I truly understood what client-server architecture means
 I opened my laptop to study, had tasks in my head, opened Notion — and still ignored them. I wanted my to-do list on my actual desktop wallpaper so I couldn't avoid it. Turns out this is non-trivial. I researched how to programmatically set wallpapers, dynamically render text onto images, and built an app that does exactly that: writes your tasks directly onto your desktop wallpaper every time you update them.
 
 I use it every day.
+
+
+[**View Repository →**](https://github.com/Abdul-wahab113/Goals-Wallpaper-Dekstop-App)
 
 `Java` `Desktop App` `System APIs` `Problem Solving`
 
