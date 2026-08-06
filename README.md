@@ -18,7 +18,7 @@ Backend architecture · AI integration · Production-grade web apps
 
 <br>
 
-[Portfolio](https://github.com/Abdul-wahab113) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdul-wahab461/) &nbsp;·&nbsp; [Email](mailto:wahabahmaddev@gmail.com)
+[Portfolio](https://wahabahmad.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdul-wahab461/) &nbsp;·&nbsp; [Email](mailto:wahabahmaddev@gmail.com)
 
 <br>
 
