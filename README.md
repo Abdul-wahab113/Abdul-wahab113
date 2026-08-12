@@ -37,7 +37,7 @@ Currently open to **internships**, **hackathons**, and interesting collaboration
 
 | Project | Description | Live |
 |---------|-------------|------|
-| **[Medical Clinic SaaS](https://github.com/Abdul-wahab113/Medical-clinic-SaaS)** | Multi-tenant clinic platform with RBAC, diagnostics & financial tracking | [Demo](https://medical-clinic-saas.vercel.app) |
+| **[Medical Clinic SaaS](https://github.com/Abdul-wahab113/Medical-clinic-SaaS)** | Multi-tenant clinic platform with RBAC, diagnostics & financial tracking | [Demo](https://medical-clinic-saa-s.vercel.app) |
 | **[Tasker](https://github.com/Abdul-wahab113/task-manager-fullstack)** | Full-stack Kanban task manager with analytics & Docker | [Demo](https://task-manager-fullstack-eight-chi.vercel.app) |
 | **[URL Shortener](https://github.com/Abdul-wahab113/URLSHORTNER-Node-Express)** | Secure URL shortener with JWT + Drizzle ORM | — |
 | **[Coverly](https://github.com/Abdul-wahab113/Coverly)** | Full-stack content generation platform | [Demo](https://coverly-ten.vercel.app) |
